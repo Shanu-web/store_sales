@@ -1,7 +1,7 @@
 # store_sales
 This repo contains the dataset of superstore sales and perform various operations using pandas and matplotlib.
 
-I have answered below 5 questions through our data analysis using pandas and matplotlib library.
+I have answered below 5 questions through my data analysis using pandas and matplotlib library.
 
 Q1. What is the overall sales trend? 
 
